@@ -1,4 +1,3 @@
 # tests
 a
 d
-d
